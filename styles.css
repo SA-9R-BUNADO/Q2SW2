@@ -1,0 +1,23 @@
+        body {
+            background-image: url(https://cdna.artstation.com/p/marketplace/presentation_assets/002/489/864/large/file.jpg?1677703411);
+            background-size: cover; /* Ensure the image covers the entire background */
+            background-repeat: no-repeat; /* Prevent tiling */
+            background-position: center; /* Center the image */
+        }
+        .header {
+            background-color: #6d5c7a;
+            color: #fff;
+            padding: 20px;
+            text-align: center;
+            border-radius: 5px;
+        }
+        .content {
+           padding: 20px;
+           background-color:#b5aac5; 
+           border-radius: 5px;
+
+        }
+        .footer {
+            text-align: center;
+            margin-top: 20px;
+        }
